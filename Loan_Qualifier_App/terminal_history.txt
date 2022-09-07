@@ -1,0 +1,49 @@
+  880  cd Desktop
+  881  cd Module_2_Challenge
+  882  ls
+  883  cd Loan-Qualifier-Application
+  884  ls
+  885  python app.py
+  886  python app.py
+  887  python app.py
+  888  clear
+  889  clear
+  890  python app.py
+  891  python app.py
+  892  conda activate base
+  893  /Users/brian/opt/anaconda3/bin/python /Users/brian/Desktop/Module_2_Challenge/Loan-Qualifier-Application/app.py
+  894  /Users/brian/opt/anaconda3/bin/python /Users/brian/Desktop/Module_2_Challenge/Loan-Qualifier-Application/app.py
+  895  /Users/brian/opt/anaconda3/bin/python /Users/brian/Desktop/Module_2_Challenge/Loan-Qualifier-Application/app.py
+  896  ls
+  897  cd Desktop
+  898  cd Module_2_Challenge
+  899  ls
+  900  cd Loan-Qualifier-Application
+  901  ls
+  902  python app.py
+  903  clear
+  904  cd
+  905  ls
+  906  cd Downloads
+  907  cd Starter_Code
+  908  ls
+  909  cd loan_qualifier_app
+  910  ls
+  911  python app.py
+  912  conda activate dev
+  913  ls
+  914  cd Downloads
+  915  ls
+  916  cd Starter_Code
+  917  ls
+  918  cd loan_qualifier_app
+  919  ls
+  920  python app.py
+  921  python app.py
+  922  python app.py
+  923  conda activate dev
+  924  cd Desktop
+  925  cd Loan_Qualifier_App
+  926  ls
+  927  python app.py
+  928  history 50 > terminal_history.txt
